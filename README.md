@@ -40,6 +40,6 @@ Contributions are welcome! If you have any ideas, suggestions, or issues, feel f
 By using **MACChangerTool**, you can enhance your network security, perform efficient penetration tests, and ensure your privacy on public networks. Happy networking! 🌐🔧
 
 ### Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/amitrajkarmakar29) | [GitHub]([https://github.com/yourusername](https://github.com/amitraj29/)
+[LinkedIn](https://www.linkedin.com/in/amitrajkarmakar29) | [GitHub](https://github.com/amitraj29/)
 
 ---
