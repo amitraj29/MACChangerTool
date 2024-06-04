@@ -14,7 +14,12 @@
    ```sh
    git clone https://github.com/amitraj29/MACChangerTool.git
    ```
-2. Run the script with necessary permissions:
+2. Navigate to the directory:
+   ```sh
+   cd MACChangerTool
+   ```
+   
+3. Run the script with necessary permissions:
    ```sh
    sudo python3 Mac_Changer.py -i <interface> -m <new_mac_address>
    ```
